@@ -37,6 +37,7 @@
 # Loading Neccessary libraries
 # The following libraries are required to run this case study.
 # Please install them before running the code.
+# Import the below libaries
 library(kernlab)
 library(readr)
 library(caret)
